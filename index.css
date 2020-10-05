@@ -161,7 +161,6 @@ span{
     flex-direction: column;
     justify-content: space-between;
     flex: 1;
-    height: 500px;
 }
 .project__right img{
     -webkit-transform: scale(-1, 1);
